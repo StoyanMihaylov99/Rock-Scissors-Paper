@@ -33,9 +33,10 @@ The computer choses a random option, then reveals the winner.
 # ScreenShots
 
 
-![ScreenShot1](https://user-images.githubusercontent.com/107346999/182663889-e39b9a8c-6afa-4319-8c7e-377a309eda2c.png)
-![ScreenShot2](https://user-images.githubusercontent.com/107346999/182663979-a3061149-0f4a-4721-bf6f-ffde976d3ac9.png)
-![ScreenShot3](https://user-images.githubusercontent.com/107346999/182664008-80ae55c7-52bd-42f4-b213-cf4afbc3be3e.png)
+![1](https://user-images.githubusercontent.com/107346999/182666100-bf39fe46-c042-4ea6-af22-6f43e19fef8d.jpg)
+![2](https://user-images.githubusercontent.com/107346999/182666137-8a8ab3d3-bf23-408b-9a2b-36d7920e710f.jpg)
+![3](https://user-images.githubusercontent.com/107346999/182666195-4f83a958-804d-4809-86ba-165c1527c4de.jpg)
+
 
 
 
