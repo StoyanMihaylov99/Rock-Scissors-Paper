@@ -1,4 +1,4 @@
-# 🎲Rock-Scissors-Paper 🎲
+# 🎲Rock-Scissors-Paper🎲
 
 A console-based Java implementation of the “Rock – Scissors – Paper” game.
 
